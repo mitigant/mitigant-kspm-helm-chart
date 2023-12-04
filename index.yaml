@@ -3,13 +3,13 @@ entries:
   kspm-operator:
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2023-12-01T11:54:03.192425798Z"
+    created: "2023-12-04T10:55:30.473090775Z"
     description: Mitigant Operator for cluster and container scans
-    digest: e011241c8017ad8467e59a9cfe5fbdbb3b921abecbbfa0bb775d8a03e1a923d7
+    digest: decb4bc2d1ab8e575c0d00bb3db63c37e9b038744537ec3cfc2cd4486b72db6a
     home: https://www.mitigant.io/
     name: kspm-operator
     type: application
     urls:
-    - https://mitigant.github.io/mitigant-kspm-helm-charts/kspm-operator-0.1.16.tgz
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.16.tgz
     version: 0.1.16
-generated: "2023-12-01T11:54:03.18758159Z"
+generated: "2023-12-04T10:55:30.469060738Z"
