@@ -1,0 +1,103 @@
+apiVersion: v1
+entries:
+  kspm-operator:
+  - apiVersion: v2
+    appVersion: 0.1.25
+    created: "2024-12-05T06:31:53.392202565Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: ffd78e562ca084b9e24d0f17034cc952f569c93552867cb5fe6f58c0efc32a4f
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.25.tgz
+    version: 0.1.25
+  - apiVersion: v2
+    appVersion: 0.1.24
+    created: "2024-10-18T05:57:30.36845678Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: a51d7f49fb7b4068eb7d6acee22f679b1f4f7da376f79ad093157b9657aad734
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.24.tgz
+    version: 0.1.24
+  - apiVersion: v2
+    appVersion: 0.1.23
+    created: "2024-09-23T01:13:39.407121806Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: 07ec3825ee7e58f39a59770052f14c6fdb9f9008797535492223833376fa3162
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.23.tgz
+    version: 0.1.23
+  - apiVersion: v2
+    appVersion: 0.1.22
+    created: "2024-09-11T03:55:34.569864897Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: 156d7d017242cc402009bb1421fd98638760d8a6be18063ed593b01703d3c4db
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.22.tgz
+    version: 0.1.22
+  - apiVersion: v2
+    appVersion: 0.1.21
+    created: "2024-07-29T06:20:22.728251877Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: 6e228c93696674ddd03e74298ded384015a190bff919791bf371c44452b03ecd
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.21.tgz
+    version: 0.1.21
+  - apiVersion: v2
+    appVersion: 0.1.20
+    created: "2024-07-16T10:08:27.303807103Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: b10cef70818d9c4b8b5bb578458245225ee51d7951ad26a0c74781d160ac5132
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.20.tgz
+    version: 0.1.20
+  - apiVersion: v2
+    appVersion: 0.1.19
+    created: "2024-03-22T06:21:01.297706547Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: 9dc8ecca06b48c5c8a37e44eee69def87e1bb58f1cb320ed5078f2b919cc9c0b
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.19.tgz
+    version: 0.1.19
+  - apiVersion: v2
+    appVersion: 0.1.18
+    created: "2024-03-19T08:24:51.555468415Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: 3710ce381e8bd26f87299c46689eaf177b5a4c9495002f3e4b8ae32a70ecacf8
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.18.tgz
+    version: 0.1.18
+  - apiVersion: v2
+    appVersion: 0.1.16
+    created: "2023-12-04T10:55:30.473090775Z"
+    description: Mitigant Operator for cluster and container scans
+    digest: decb4bc2d1ab8e575c0d00bb3db63c37e9b038744537ec3cfc2cd4486b72db6a
+    home: https://www.mitigant.io/
+    name: kspm-operator
+    type: application
+    urls:
+    - https://mitigant.github.io/helm-charts/kspm-operator-0.1.16.tgz
+    version: 0.1.16
+generated: "2024-12-05T06:31:53.388720568Z"
